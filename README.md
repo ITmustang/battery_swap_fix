@@ -1,4 +1,4 @@
-# Battery Swap Fix (Linux) for Lenovo T460s / Ubuntu 16.04
+# Battery Swap Fix (Linux) for Lenovo T580s / Ubuntu 16.04
 
 (forked from https://github.com/mickare/battery_swap_fix)
 
