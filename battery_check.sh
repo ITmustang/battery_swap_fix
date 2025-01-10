@@ -34,3 +34,4 @@ for bat in /sys/class/power_supply/BAT*; do
     info "$bat"
   fi
 done
+
